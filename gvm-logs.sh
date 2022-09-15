@@ -1,6 +1,6 @@
 #! /bin/bash
 
-# This script is used to quickly identify GVM services, then view the last few log entries. I'm lazy and don't want to check all of these by hand. Sue me
+# This script is used to quickly identify GVM services, then view the last few log entries.
 set -e
 
 DOWNLOAD_DIR=$HOME/greenbone-community-container
